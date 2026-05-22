@@ -87,7 +87,7 @@ This places `X` in the center cell.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Divesh-dee-bugger/Tic-Tac-Toe_Game.git
 ```
 
 ---
@@ -95,7 +95,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 ## Move Into the Project Directory
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd Tic-Tac-Toe_Game
 ```
 
 ---
